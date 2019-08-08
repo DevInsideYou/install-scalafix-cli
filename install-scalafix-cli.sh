@@ -18,5 +18,9 @@ echo
 
 scalafix --version
 
+echo
+
+echo '"scalafix" is now on the path'
+
 # remove yourself
 rm $0
