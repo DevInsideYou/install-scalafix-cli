@@ -2,7 +2,7 @@
 
 if [ "$1" == "" ]; then
     SCALA_VERSION="2.12.8"
-    VERSION="0.9.5"
+    VERSION="0.9.6"
 else
     SCALA_VERSION="$1"
     VERSION="$2"
